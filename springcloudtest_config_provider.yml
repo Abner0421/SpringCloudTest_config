@@ -13,7 +13,7 @@ spring:
        name: zsc_db1
        type: com.alibaba.druid.pool.DruidDataSource
        driver-class-name: com.mysql.jdbc.Driver
-       url: jdbc:mysql://localhost:3306/zsc_db1?characterEncoding=utf-8
+       url: jdbc:mysql://localhost:3306/zsc_db2?characterEncoding=utf-8
        username: root
        password: 970610
        dbcp2: 
